@@ -11,7 +11,9 @@ The team won the "Best IoT Hack using a Qualcomm device" award
 The team consisted of myself, Colin Sergi, and Praveen Balaji.
 
 Myself and Praveen programmed the Android Application using Android Studio.
+
 Colin Sergi @csergi programmed the entire backend component of the project as well as hosting the web service on Google Cloud Platform. https://github.com/csergi/HackGT2018
+
 Colin and Praveen also programmed the Snapdragon using Python. 
 
 
