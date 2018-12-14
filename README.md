@@ -17,5 +17,5 @@ Colin Sergi @csergi programmed the entire backend component of the project as we
 Colin and Praveen also programmed the Snapdragon using Python. 
 
 
-The original project can be found here: https://github.com/csergi/HackGT2018
+The original project can be found here: https://github.com/csergi/HackGT2018 and https://devpost.com/software/navigt
 
